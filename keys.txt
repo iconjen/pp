@@ -1,0 +1,22 @@
+server password
+USKYAh6e2DcY
+
+ssh
+host: 119.9.15.167
+username: root
+password: DevPP.2014
+
+vestacp
+https://119.9.15.167:8083
+admin
+Wz4RbEdAqd
+
+iconjen
+yezTspF1c5
+
+staging
+DevPP.2014
+
+database
+user: iconjen
+pass: frQhgf3tAN
